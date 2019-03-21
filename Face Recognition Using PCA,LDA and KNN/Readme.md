@@ -1,2 +1,2 @@
 # Face Recognition Using FisherFaces and K-Nearest Neighbors
-Here we are performing face recognition of the CroppedYale database using FisherFaces and KNN. 
+Here we are performing face recognition of the CroppedYale database using FisherFaces and KNN. Upon running the main.py file on a python 3.6 IDLE, it fetches all the images from the CroppedYale database and splits it into training and testing testsing sets in a 90:10 ratio, creates a model using the training data, tests the model across all the testing images and displays the accuracy of the model.
